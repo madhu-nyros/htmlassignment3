@@ -1,41 +1,64 @@
     #top{
-
-	 	background-image: url("http://10.90.90.40/htmlassignment/assets/images/keyboard.jpg");
+		background-image: url("http://10.90.90.40/htmlassignment/assets/images/keyboard.jpg");
 	 	width:1520px;
-	 	height:100px;
+	 	height:140px;
 		padding-top: 50px;
 	 	line-height: 10px;
 	 	padding-bottom: 10px;
 	 }
 	 #top p{
-
-	 	text-align: center;
-	 	font-size: 40px;
+		text-align: center;
+	 	font-size: 43px;
+	 	font-family: arial;
 	 	color:white;
+	 	margin-top: 0px;
 	 	padding-bottom: 3px;
-	 	line-height: 10px;
+	 	line-height: 4px;
+	 	font-family: ;
 	 }
 	 #top h3{
-	 	text-align: center;
+        padding-left: 660px;
         color:white;
+        font-size: 25px;
+        font-family: arial;
 	 }
 	 #div1{
 		margin-top: 30px;
 		padding-left:300px;
 		background-color: white;
+		opacity: 0.7;
+     }
+     #div1 p{
+     	font-family: arial;
+     }
+     #aboutme{
+      	font-weight:  bold;
+      	font-size: 20px;
 
-	 }
+      }
 	 #div2{
-
 		margin-top: 30px;
+		font-family: arial;
 		padding-left: 300px;
 		padding-top: 10px;
 		padding-bottom: 10px;
-		background-color: #ff0083;
+		background-color: #ff0c65;
 		color: white;
 	 }
-
-	 #div3 {
+     #div3 {
 		padding-left: 300px;
-
-	}
+		opacity: 0.7;
+	 }
+	 #contact{
+	 	margin-top: 25px;
+	 	font-family:  arial;
+	 	font-weight:bold ;
+	 	font-size: 18px;
+	 }
+	 #twitter{
+	 	font-family: arial;
+	 }
+     a{
+     	font-weight: bold;
+     	color: #27d1be;
+     }
